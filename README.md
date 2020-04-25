@@ -1,6 +1,8 @@
 # Passwall Alfred Workflow
 **This Alfred workflow helps you using Pass-wall with Alfred.**
 
+![Passwall Alfred Workflow Screenshot](https://github.com/MrPeker/passwall-alfred/blob/master/screenshot.png?raw=true)
+
 ## How to install?
 Please check [Releases](https://github.com/MrPeker/passwall-alfred/releases) page and download latest version of **passwall.alfredworkflow**
 
